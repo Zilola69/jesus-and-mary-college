@@ -16,7 +16,7 @@
 <tbody>
 
 <tr>
-<th colspan="5"><marquee direction="right">Jesus and Mary College</marquee></th>
+<th colspan="3"><marquee direction="right">Jesus and Mary College</marquee></th>
 </tr>
 
 <tr>
