@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title> Zilola Salametova about Jesus and Mary College </title>
+<title>JMC</title>
 <link href="/JMC/assets/css/style.css?v=b17e44f34d01db74c0d32322381a9c10a02fe685" rel="stylesheet">
 </head>
   
 <body>
     <div class="container markdown-body">
-    <h1 id="Jesus and Mary College">Jesus and Mary College</h1>
+    <h1 id="JMC">Jesus and Mary College</h1>
 <img src="http://collegedunia.com/public/college_data/images/campusimage/1412427543js1.jpg"><table>
 
 <tbody>
