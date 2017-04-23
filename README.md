@@ -50,6 +50,30 @@
 </tr>
 
 <tr>
+<th>Noindex Tag Checker</th>
+<td>this means that your webpage will be read and indexed by search engines.</td>
+<td>this webpage does not use the noindex meta tag.</td>
+</tr>
+
+<tr>
+<th>Nofollow Tag Checker</th>
+<td>this means that search engins will crawl all links from your webpage.</td>
+<td>this webpage does not use the nofollow meta tag.</td>
+</tr>
+
+<tr>
+<th>HTML Page Size Test</th>
+<td> HTML size is 11.06 Kb and this is under the average web page size of 33 Kb. </td>
+<td>This leads to a faster page loading time than average.</td>
+</tr>
+
+<tr>
+<th>Deprecated HTML Tags</th>
+<td>This webpage is using HTML deprecated tags.</td>
+<td>this webpage has to use it without mistakes</td>
+</tr>
+
+<tr>
 <th>gzip compression</th>
 <td>must be compressed</td>
 <td>this webpage is compressed from 44.06kb to 11.17kb</td>
@@ -62,8 +86,14 @@
 </tr>
 
 <tr>
-<th>expiration</th>
-<td colspan="2">days left 3years,11months,5days</td>
+<th>Page Authority</th>
+<td>Page Authority of your website is only 19.71. </td>
+<td>It is good to have page authority more than 20.</td>
+</tr>
+
+<tr>
+<th>Favicon Test</th>
+<td colspan="2">Website appears to have a favicon.</td>
 </tr>
 
 <tr>
@@ -75,7 +105,7 @@
 
 <p> <p>
 
-<img src="http://medicaldialogues.in/wp-content/uploads/2015/12/FMRI.jpg">
+<img src="http://www.jmc.ac.in/images/fbad2d30-0bee-11e4-8d24-edfbf5905c11.png">
 
 
 <table>
@@ -92,8 +122,8 @@
 </tr>
 
 <tr>
-<th>https://www.fmri.in/</th>
-<td>27.52</td>
+<th>http://www.jmc.ac.in/</th>
+<td>29.19</td>
 <td>NIL</td>
 </tr>
 
@@ -115,9 +145,9 @@
 </tr>
 
 <tr>
-<th>11 May, 2013</th>
-<td>3 Years, 11 Months</td>
-<td>27 October, 2016</td>
+<th>NIL</th>
+<td>NIL</td>
+<td>NIL</td>
 </tr>
 
 </tbody>
