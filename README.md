@@ -70,9 +70,59 @@
 <th>admin email address</th>
 <td colspan="2">marinajmc@gmail.com</td>
 </tr>
+</tbody>
+</table>
+
+<p> <p>
+
+<img src="http://medicaldialogues.in/wp-content/uploads/2015/12/FMRI.jpg">
+
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL:</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank:</th>
+</tr>
+
+<tr>
+<th>https://www.fmri.in/</th>
+<td>27.52</td>
+<td>NIL</td>
+</tr>
 
 </tbody>
 </table>
+
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
+</tr>
+
+<tr>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>11 May, 2013</th>
+<td>3 Years, 11 Months</td>
+<td>27 October, 2016</td>
+</tr>
+
+</tbody>
+</table>
+
 
  </div>
  </body></html>
